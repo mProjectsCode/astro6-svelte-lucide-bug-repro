@@ -1,0 +1,17 @@
+{
+  "name": "astro6-lucide-repro",
+  "private": true,
+  "type": "module",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "dependencies": {
+    "@astrojs/svelte": "8.0.0",
+    "astro": "6.0.0",
+    "lucide-svelte": "0.577.0",
+    "svelte": "5.53.9"
+  }
+}
